@@ -12,7 +12,8 @@ _ENABLE_GUI = "--gui" in sys.argv
 
 
 # from hub import Hub as switch
-from dv_router import DVRouter as switch
+# from dv_router import DVRouter as switch
+from  dv_router_new import DVRouter_New as switch
 
 import sim.core
 import scenarios
