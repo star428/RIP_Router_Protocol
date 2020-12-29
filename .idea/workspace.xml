@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff0022a-dd54-4a04-ac4b-4887acd18639" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dv_router_new.py" beforeDir="false" afterPath="$PROJECT_DIR$/dv_router_new.py" afterDir="false" />
-    </list>
+    <list default="true" id="bff0022a-dd54-4a04-ac4b-4887acd18639" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +103,14 @@
       <workItem from="1606912856864" duration="1000" />
       <workItem from="1607476294034" duration="9788000" />
     </task>
+    <task id="LOCAL-00001" summary="complete new idea">
+      <created>1609262914146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609262914146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +127,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete new idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete new idea" />
   </component>
   <component name="WindowStateProjectService">
     <state x="279" y="88" width="1379" height="751" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609260911445">
