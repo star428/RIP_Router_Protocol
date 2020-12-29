@@ -30,6 +30,12 @@ class DVRouter_New(Entity):
         self.send_RoutingUpdate_packet()
 
     def handle_rx(self, packet, port):
+        """
+        此时修改逻辑
+        DiscoveryPacket只负责写入邻居表并不转发（本意如此）
+        同时收到来自邻居的延迟矢量（也就是我们所用的routerpacket）
+        来更新路由表，默认8次更新后达到最好发送一个ok字样
+        """
         if len(packet.trace) > 16:
             pass
         else:
